@@ -1,0 +1,14 @@
+# Python / Django
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+
+# Environment Variables (Never commit secrets!)
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
